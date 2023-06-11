@@ -7,6 +7,7 @@ import org.example.models.Character;
 import java.util.ArrayList;
 import java.util.Date;
 
+/////////////////////////////////////////////////////////////////
 public class Bank extends Industry implements BankInterface {
 
     private static final int MAX_EMPLOYEE_COUNT = 5;
